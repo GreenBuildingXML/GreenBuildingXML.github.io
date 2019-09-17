@@ -3,6 +3,15 @@
 
 ## Weekly report
 
+First launch
+
+* https://github.com/ladybug-tools/spider-gbxml-viewers-for-openstudio
+
+Updates
+
+* Spider gbXML Fixer 'Atrax' v0.05.00-7dev
+* Spider gbXML Viewer Dev 0.17.03-4sgv
+
 
 ## Updating repo Read Me files
 
@@ -28,6 +37,7 @@ Questions
 ## Business development opportunities
 
 ### Sample files
+
 * gbXML sponsors should be requested to submit files the sample file repositories
 * Selected files should be more than test cases but should be a demonstration of thhe sponsor's skill and cumen in dealing with gbXML
 * When there is a sufficient numbet of files, the sponsors will be charge an annual fee to keep their files on the current 'build' reales of the repos
