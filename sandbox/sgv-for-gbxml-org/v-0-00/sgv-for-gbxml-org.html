@@ -45,7 +45,7 @@
 	<nav id="navMenu" >
 
 		<h2>
-			<a href="https://github.com/greenbuildingxml/greenbuildingxml.github.io/";
+			<a href="https://github.com/GreenBuildingXML/GreenBuildingXML.github.io/tree/master/sandbox";
 				target=_top title="Source code on GitHub" >
 				<img src=../brandmark-gbxml-small.png style=opacity:1; >
 			</a>
@@ -76,14 +76,14 @@
 	<main>
 
 		<div id="divContents" style=height:600px;overflow:hidden;resize:both;width:100%; >
-			<iframe id=ifr src="https://www.ladybug.tools/spider-gbxml-tools/spider-gbxml-viewer/v-0-17-03/app-popup/spider-gbxml-viewer-popup.html" style=height:100%;width:100%; ></iframe>
+			<iframe id=ifr src="../../../../spider-gbxml-tools/spider-gbxml-viewer/v-0-17-03/app-popup/spider-gbxml-viewer-popup.html" style=height:100%;width:100%; ></iframe>
 		</div>
 
 	</main>
 
 
 <script>
-
+//https://ladybug-tools.github.io
 
 const user = "greenbuildingxml";
 let repo;
@@ -100,8 +100,6 @@ init();
 
 
 function init() {
-
-	//divTitle.innerHTML = getTitle();
 
 	window.addEventListener ( 'hashchange', onHashChange, false );
 
@@ -156,7 +154,9 @@ function fetchFiles( rep ) {
 function callbackGitHubApiTree ( results ) {
 
 	const urlGitHubSource = `https://github.com/${ user }/${ repo }/blob/master/`;
-	const urlGitHubPage = `https://cdn.jsdelivr.net/gh/${ user }/${ repo }@master/`;
+	//const urlGitHubPage = `https://cdn.jsdelivr.net/gh/${ user }/${ repo }@master/`;
+
+	const urlGitHubPage = `https://greenbuildingxml.github.io/${ repo }/`;
 	const iconGitHubMark = '<img src="https://cdn.jsdelivr.net/gh/ladybug-tools/spider@master/images/github-mark.png" height=14 style=vertical-align:middle>';
 
 	files = results.tree.filter( file => file.path.endsWith( ".xml" ) );
@@ -225,8 +225,6 @@ function onHashChange() {
 	ifr.contentWindow.location.hash = location.hash;
 
 }
-
-
 
 </script>
 </body>
