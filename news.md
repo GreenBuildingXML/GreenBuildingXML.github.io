@@ -10,7 +10,7 @@ This is a 61 minute video of a webinar that targets energy modelers, engineers, 
 
 ## 1. Overview of gbXML by Stephen Roth ~ President Carmel Software and a Director of Green Building XML
 
-[<img src=./journal/07/gbxml-2020-07-12.png width=500 >]( https://www.ladybug.tools/spider-2020/spider-gbxml-viewer/ )
+[<img src=./images/2020-07/sgv-0-17-02.png width=500 >]( https://www.ladybug.tools/spider-2020/spider-gbxml-viewer/ )
 
 Stephen presents an overview of a pre-release of the next generation of the [Ladybug Tools / Spider gbXML Viewer]( https://www.ladybug.tools/spider-2020/spider-gbxml-viewer/ ) as linked to https://gbxml.org/. ( Click the "Viewer" button at top right of the page).
 
@@ -31,8 +31,8 @@ Stephen presents an overview of a pre-release of the next generation of the [Lad
 ### Spider Viewer
 
 * Open source viewer
-* Current version
-* Development version
+* Current version: https://www.ladybug.tools/spider-gbxml-tools/spider-gbxml-viewer/
+* Development version: https://www.ladybug.tools/spider-2020/spider-gbxml-viewer/
 
 
 
@@ -40,7 +40,7 @@ Stephen presents an overview of a pre-release of the next generation of the [Lad
 
 Jim presents an overview of the new [TRACE 3D Plus]( https://www.trane.com/commercial/north-america/us/en/products-systems/design-and-analysis-tools/analysis-tools/trace-3d-plus.html ) desktop software using gbXML. 
 
-![]( ./journal/07/TRACE3DPlus-renewables.png )
+![]( ./images/2020-07/TRACE3DPlus-renewables.png )
 
 TRACE 3D Plus is a next generation building design and analysis software program that delivers faster, more accurate results through a seamless workflow that closely aligns with today's building process: https://www.trane.com/commercial/north-america/us/en/products-systems/design-and-analysis-tools/analysis-tools/trace-3d-plus.html
 
@@ -75,7 +75,7 @@ gbXML Interoperability with TRACE 3D Plus and Autodesk® Revit: https://tranecds
 Ben presents a demo of the the new [SPEED (Simulation Platform for Energy Efficient Design)]( https://speed.perkinswill.com/ ) web- and cloud-based software tool using gbXML. 
 
 
-[<img src=./journal/07/speed-2020-07-12.png width=500 >]( https://vimeo.com/417768377 )
+[<img src=./images/2020-07/speed-2020-07-12.png width=500 >]( https://vimeo.com/417768377 )
 
 SPEED is a web-based and cloud-based energy/daylighting/solar design and simulation platform for early design developed for architects enabling a 1-day turn-around from design question to a data-driven design answer.
 
