@@ -70,7 +70,7 @@ gbXML Interoperability with TRACE 3D Plus and Autodesk® Revit: https://tranecds
 
 
 
-### 3. Presentation by Ben Welle ~ Director of Energy Lab - Perkins and Will 
+## 3. Presentation by Ben Welle ~ Director of Energy Lab - Perkins and Will 
 
 Ben presents a demo of the the new [SPEED (Simulation Platform for Energy Efficient Design)]( https://speed.perkinswill.com/ ) web- and cloud-based software tool using gbXML. 
 
