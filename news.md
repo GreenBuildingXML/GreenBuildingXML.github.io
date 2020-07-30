@@ -10,9 +10,9 @@ This is a 61 minute video of a webinar that targets energy modelers, engineers, 
 
 ## 1. Overview of gbXML by Stephen Roth ~ President Carmel Software and a Director of Green Building XML
 
-[<img src=./images/2020-07/sgv-0-17-02.png width=500 >]( https://www.ladybug.tools/spider-2020/spider-gbxml-viewer/ )
+[<img src=./images/2020-07/sgv-0-17-06.png width=500 >]( https://www.ladybug.tools/spider-2020/spider-gbxml-viewer/ )
 
-Stephen presents an overview of a pre-release of the next generation of the [Ladybug Tools / Spider gbXML Viewer]( https://www.ladybug.tools/spider-2020/spider-gbxml-viewer/ ) as linked to https://gbxml.org/. ( Click the "Viewer" button at top right of the page).
+Stephen presents an overview of a pre-release of the next generation of the [Ladybug Tools / Spider gbXML Viewer]( https://www.ladybug.tools/spider-2020/spider-gbxml-viewer/ ) as linked to https://gbxml.org/. (Click the "Viewer" button at top right of the page).
 
 ### gbXML
 
@@ -33,7 +33,7 @@ Stephen presents an overview of a pre-release of the next generation of the [Lad
 * Open source viewer
 * Current version: https://www.ladybug.tools/spider-gbxml-tools/spider-gbxml-viewer/
 * Development version: https://www.ladybug.tools/spider-2020/spider-gbxml-viewer/
-
+	* 2020-07-29: Current version is very slow translating XML to JSON. Be prepared for pauses in the interaction. ;-) This is an "under construction" work-in-progress issue that will be fixed 
 
 
 ## 2. Presentation by Jim Spielbauer ~ Lead Engineer – Modeling and Simulation group at Trane Technologies
