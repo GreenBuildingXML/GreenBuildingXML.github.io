@@ -2,15 +2,10 @@
 # [![GitHub]( ./images/octicon.svg )]( https://github.com/GreenBuildingXML/GreenBuildingXML.github.io "GitHub repository" )  GreenBuildingXML.github.io
 
 
-The Green Building XML schema, or "gbXML", is the language of buildings. It was developed to facilitate the transfer of building information stored in CAD-based building information models, enabling interoperability between disparate building design and engineering analysis software tools. This is all in the name of helping architects, engineers, and energy modelers to design more energy efficient buildings.
+The Green Building [XML schema]( https://en.wikipedia.org/wiki/XML_schema#:~:text=An%20XML%20schema%20is%20a,constraints%20imposed%20by%20XML%20itself. ), or "[gbXML]( https://en.wikipedia.org/wiki/Green_Building_XML )", is the language of buildings. It was developed to facilitate the transfer of building information stored in CAD-based building information models, enabling interoperability between disparate building design and engineering analysis software tools. This is all in the name of helping architects, engineers, and energy modelers to design more energy efficient buildings.
 
 This Github repo includes source code for many of the gbXML validators, sample gbXML files, source code for the online viewer, and much more.
 
-## External links
-
-### [gbXML.org]( https://gbxml.org )
-
-* Home Page
 
 ## Internal links
 
@@ -31,4 +26,10 @@ This Github repo includes source code for many of the gbXML validators, sample g
 
 * Newest version work-in-progress
 
+
+## External links
+
+### [gbXML.org]( https://gbxml.org )
+
+* Home Page
 
