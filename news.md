@@ -8,7 +8,7 @@ YouTube Video: https://www.youtube.com/watch?v=nKNquCcoBJg&feature=youtu.be
 
 This is a 61 minute video of a webinar that targets energy modelers, engineers, architects, software vendors, and generally anyone who is interested in learning about Trane TRACE 3D Plus, Perkins and Will's new SPEED software tool, and gbXML.
 
-## 1. Overview of gbXML by Stephen Roth ~ President Carmel Software and a Director of Green Building XML
+### 1. Overview of gbXML by Stephen Roth ~ President Carmel Software and a Director of Green Building XML
 
 [<img src=./images/2020-07/sgv-0-17-06.png width=500 >]( https://www.ladybug.tools/spider-2020/spider-gbxml-viewer/ )
 
@@ -36,7 +36,7 @@ Stephen presents an overview of a pre-release of the next generation of the [Lad
 	* 2020-07-29: Current version is very slow translating XML to JSON. Be prepared for pauses in the interaction. ;-) This is an "under construction" work-in-progress issue that will be fixed 
 
 
-## 2. Presentation by Jim Spielbauer ~ Lead Engineer – Modeling and Simulation group at Trane Technologies
+### 2. Presentation by Jim Spielbauer ~ Lead Engineer – Modeling and Simulation group at Trane Technologies
 
 Jim presents an overview of the new [TRACE 3D Plus]( https://www.trane.com/commercial/north-america/us/en/products-systems/design-and-analysis-tools/analysis-tools/trace-3d-plus.html ) desktop software using gbXML. 
 
@@ -70,7 +70,7 @@ gbXML Interoperability with TRACE 3D Plus and Autodesk® Revit: https://tranecds
 
 
 
-## 3. Presentation by Ben Welle ~ Director of Energy Lab - Perkins and Will 
+### 3. Presentation by Ben Welle ~ Director of Energy Lab - Perkins and Will 
 
 Ben presents a demo of the the new [SPEED (Simulation Platform for Energy Efficient Design)]( https://speed.perkinswill.com/ ) web- and cloud-based software tool using gbXML. 
 
@@ -106,4 +106,27 @@ Benefits
 * More effective collaboration with consultants
 * Risk mitigation for the rapidly approaching world of performance-based contracting
 
+
+## Webinar September 12, 2019: Green Building XML (gbXML), Revit Systems Analysis, and More...
+
+Link to YouTube Video: https://www.youtube.com/watch?v=6zM6p-wF2AM&feature=youtu.be
+
+This is a recording of a Green Building XML (gbXML) webinar that took place on September 12, 2019 from 1 to 2 pm EST. This webinar was targeted toward energy modelers, engineers, architects, software vendors, and generally anyone who is interested in viewing the new Autodesk Revit Systems Analysis, gbXML and Open Studio workflow. Also, the contractor working on the latest ASHRAE research project to improve how software tools integrate with gbXML discussed their progress so far.
+
+The agenda was as follows:
+
+1. Overview of gbXML by Stephen Roth of Carmel Software
+
+2. Presentation by Ian Molloy of Autodesk demoing the new Revit Systems Analysis workflow with Open Studio (and EnergyPlus) using gbXML
+
+3. Presentation by Krishnan Gowri of Intertek – Building Science Solutions discussing the ASHRAE research project to improve the way software tools integrate with gbXML
+
+4. Q&A
+
+
+## Webinar May 8, 2018: Ladybug Tools and Green Building XML (gbXML): Open Source Tools for Building Analysis
+
+Link to YouTube video: https://www.youtube.com/watch?v=qHFEhD2SsDA&feature=youtu.be
+
+A recording of a live webinar of Ladybug Tools with emphasis on Green Building XML and the new web-based gbXML viewer.
 
