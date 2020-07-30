@@ -6,13 +6,29 @@ The Green Building XML schema, or "gbXML", is the language of buildings. It was 
 
 This Github repo includes source code for many of the gbXML validators, sample gbXML files, source code for the online viewer, and much more.
 
+## External links
 
-## [gbXML News]( news.md )
+### [gbXML.org]( https://gbxml.org )
 
-## [gbXML Scheme Repository]( https://github.com/GreenBuildingXML/gbXML_Schemas )
+* Home Page
 
-## [gbXML Sample Files Repository ]( https://github.com/GreenBuildingXML/Sample_gbXML_Files )
+## Internal links
 
-## [gbXML Validator ]( https://github.com/GreenBuildingXML/RP1810-Validator ) ~ Newest version work-in-progress
+### [gbXML News]( news.md )
+
+* Links to the videos of recent webinars
+* See also [gbxml.org/news]( https://gbxml.org/WhatsNewWith_GreenBuildingXML_gbXML ) for many more articles 
+
+### [gbXML Schema Repository]( https://github.com/GreenBuildingXML/gbXML_Schemas )
+
+* Includes current and previous gbXML .xsd files. The current version is 6.01
+
+### [gbXML Sample Files Repository ]( https://github.com/GreenBuildingXML/Sample_gbXML_Files )
+
+* Validated gbXML files from a variety of sources
+
+### [gbXML Validator ]( https://github.com/GreenBuildingXML/RP1810-Validator )
+
+* Newest version work-in-progress
 
 
